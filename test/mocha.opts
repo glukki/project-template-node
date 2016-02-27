@@ -1,0 +1,9 @@
+--colors
+--reporter spec
+--ui bdd
+--no-exit
+--recursive
+--require should
+--require should-sinon
+--require babel-polyfill
+--compilers js:babel-register
