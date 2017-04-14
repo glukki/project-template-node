@@ -23,7 +23,7 @@
     "babel-preset-react": "^6.16.0",
     "babel-register": "^6.5.2",
     "eslint-config-standard": "^10.2.1",
-    "eslint-config-standard-jsx": "^3.2.0",
+    "eslint-config-standard-jsx": "^4.0.1",
     "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-react": "^6.7.1",
     "eslint-plugin-standard": "^3.0.1",
