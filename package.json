@@ -32,7 +32,7 @@
     "istanbul": "^0.4.2",
     "mocha": "^3.2.0",
     "should": "^11.1.1",
-    "should-sinon": "0.0.5",
+    "should-sinon": "0.0.6",
     "sinon": "^2.0.0",
     "snazzy": "*",
     "standard": "*",
