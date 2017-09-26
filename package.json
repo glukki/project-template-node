@@ -33,7 +33,7 @@
     "mocha": "^3.2.0",
     "should": "^11.1.1",
     "should-sinon": "0.0.5",
-    "sinon": "^2.0.0",
+    "sinon": "^4.0.0",
     "snazzy": "*",
     "standard": "*",
     "webpack": "^2.4.1",
